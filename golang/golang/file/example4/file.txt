@@ -1,0 +1,2 @@
+this is write string test.
+a哈
